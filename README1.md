@@ -13,3 +13,6 @@ UUID=54BE-F836  /boot/efi       vfat    umask=0077      0       1
 UUID=e4293c94-9f67-45c5-b8c2-1e98a8776508 /home           ext4    defaults        0       2
 # swap was on /dev/sda2 during installation
 UUID=cecda0c3-64dd-4c02-b6e3-a234d195f265 none            swap    sw              0       0
+
+
+Linux version 5.0.0-23-generic (buildd@lgw01-amd64-030) (gcc version 7.4.0 (Ubuntu 7.4.0-1ubuntu1~18.04.1)) #24~18.04.1-Ubuntu SMP Mon Jul 29 16:12:28 UTC 2019
